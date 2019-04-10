@@ -1,0 +1,23 @@
+{
+  "name": "GitHubAvatar",
+  "version": "1.0.0",
+  "description": "## Problem Statement",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anithaamarnath/Git-Hub-Avator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anithaamarnath/Git-Hub-Avator/issues"
+  },
+  "homepage": "https://github.com/anithaamarnath/Git-Hub-Avator#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
