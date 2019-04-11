@@ -15,6 +15,9 @@ function getRepoContributors(repoOwner, repoName, cb) {
     cb(err, body);
   });
 }
+function downloadImageByURL(url, filePath) {
+  // ...
+}
 
 
 getRepoContributors("jquery", "jquery", function(err, result) {
